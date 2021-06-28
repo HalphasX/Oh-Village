@@ -181,6 +181,7 @@ In the current prototype of this version, the cards available are only 2, but th
     </td>
     <td>
       - Finalizing Card deck ratio and designs. <br>
+      - Finalizing animations for card deployments and dealing, spell cards, and attacking animations.
     </td>
     <td>
       24/07/21

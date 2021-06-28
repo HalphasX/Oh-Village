@@ -163,8 +163,9 @@ In the current prototype of this version, the cards available are only 2, but th
     </td>
     <td>
       Game design refining : <br>
-      - UI/UX smoothing on 2 Player Gameplay
-      - Animation of Weapons, spells, and deployment of hero cards
+      - UI/UX smoothing on 2 Player Gameplay <br>
+      - 3 Player and 4 Player Gameplay Finishing. <br>
+      - Animation refinement for scene transitions.
     </td>
     <td>
       11/07/21
@@ -179,8 +180,7 @@ In the current prototype of this version, the cards available are only 2, but th
       7.
     </td>
     <td>
-      - Finalizing Card deck ratio and designs.
-      - 3 Player and 4 Player Gameplay Finishing.
+      - Finalizing Card deck ratio and designs. <br>
     </td>
     <td>
       24/07/21

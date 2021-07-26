@@ -59,12 +59,14 @@ The available weapons are:
   3. Staff for Clerics which would increase its healing effect
 <br> 
 **Spell Cards**
-Spell cards are rare and have a very powerful effects. The attacking spell cards will directly attack the user, not just their heroes. In addition, some of the spells have annoying effects as well. 
+Spell cards are rare and some have very powerful effects. The attacking spell cards will directly attack the user, not just their heroes. In addition, some of the spells have annoying effects as well. 
 The available spells are: 
   1. Hellfire
   2. Tornado
   3. Lightning
   4. Fireball
+  5. Double Slash
+  6. Heal Spell (S, M, L)
 <br> 
 Players could customize their starting HP and total turns which could be done in the starting scene. If the game reaches the total turns, it will automatically stopped and the player with more HP will win. Players can look at the available cards in Library and how to play this game in How To Play scene of the game. 
 

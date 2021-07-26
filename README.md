@@ -671,6 +671,222 @@ In the current prototype of this version, the cards available are only 2, but th
     </td>
   </tr>
   
+  <tr>
+    <td>
+      21.
+    </td>
+    <td>
+      Team Meeting : Plan Finalization
+    </td>
+    <td>
+      30/06/21
+    </td>
+    <td>
+      5.5
+    </td>
+    <td>
+      5.5
+    </td>
+    <td>
+      - Finalize target and schedule for Milestone 3. 
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      22.
+    </td>
+    <td>
+      Team meeting : Cards Plan
+    </td>
+    <td>
+      02/07/21
+    </td>
+    <td>
+      6
+    </td>
+    <td>
+      6
+    </td>
+    <td>
+      - Create an excel file consisting of the cards to be implemented. <br> 
+      - Balancing the energy cost, attack power, and attack cost. 
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      23.
+    </td>
+    <td>
+      Team Meeting : Coding the Cards #1
+    </td>
+    <td>
+      06/07/21
+    </td>
+    <td>
+      7
+    </td>
+    <td>
+      7
+    </td>
+    <td>
+      - Implementing Hero cards, and some of the Spell cards. <br>
+      - Including fixing bugs encountered in the process.       
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      24.
+    </td>
+    <td>
+      Team Meeting : Coding the Cards #2
+    </td>
+    <td>
+      09/07/21
+    </td>
+    <td>
+      8
+    </td>
+    <td>
+      8
+    </td>
+    <td>
+      - Completing Spell cards and Weapon cards. <br> 
+      - Creating prefabs on Unity and attaching them to the source script. 
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      25.
+    </td>
+    <td>
+      Team Meeting : Changing the display in Unity.
+    </td>
+    <td>
+      13/07/21
+    </td>
+    <td>
+      9
+    </td>
+    <td>
+      9
+    </td>
+    <td>
+      - Changing backgrounds of Main Menu, Playfield, and Hands. <br> 
+      - Refining UI of the game by allowing players to choose the starting HP and turns limit. 
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      26.
+    </td>
+    <td>
+      Team Meeting : Testing and Cards rebalancing
+    </td>
+    <td>
+      15/07/21
+    </td>
+    <td>
+      6
+    </td>
+    <td>
+      6
+    </td>
+    <td>
+      - Testing playing the games a few times and fixed bugs here and there regarding the cards' power.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      27.
+    </td>
+    <td>
+      Testing
+    </td>
+    <td>
+      18/07/21
+    </td>
+    <td>
+      9.5
+    </td>
+    <td>
+      9.5
+    </td>
+    <td>
+      - Test the game by letting some groups of our friends play, and collect their feedbacks on the spot. 
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      28.
+    </td>
+    <td>
+      Team Meeting : Cards rebalancing
+    </td>
+    <td>
+      21/07/21
+    </td>
+    <td>
+      7
+    </td>
+    <td>
+      7
+    </td>
+    <td>
+      - Rebalance the cards and add some new cards based on our friends' feedback. 
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      29.
+    </td>
+    <td>
+      Team Meeting : Finalization of Project on Unity
+    </td>
+    <td>
+      24/07/21
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      - Refining some UI and finalize the project. 
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      30.
+    </td>
+    <td>
+      Team Meeting : Finalization of Submission for Milestone 3
+    </td>
+    <td>
+      26/07/21
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      - Update Project Log, README.md, and Poster. <br> 
+      - Record and upload a video about the final product.
+    </td>
+  </tr>
+  
+  
   </table>
 
 | Total Hours | Orbitee 1 | Orbitee 2 |

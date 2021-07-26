@@ -30,6 +30,12 @@ These following tech stacks would be used in our project :
 - C# (Visual Studio)
 - Photoshop CC17
 
+## To open the game 
+You need :
+- Unity v2020.3.8f1; platform Windows-64bit
+You should :
+- Download this whole repository and open the game using Unity Hub.
+
 ## Program Flow
 
 ![Oh!Village_Program_Flow](https://github.com/HalphasX/Oh-Village/blob/main/Program%20Flow.png)

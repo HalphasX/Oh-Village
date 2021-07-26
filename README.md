@@ -32,7 +32,7 @@ These following tech stacks would be used in our project :
 
 ## Program Flow
 
-![Oh!Village_Program_Flow](https://user-images.githubusercontent.com/70026153/120075076-6bd94b80-c0d2-11eb-8e3a-5e6bab66c13b.png)
+![Oh!Village_Program_Flow](https://github.com/HalphasX/Oh-Village/blob/main/Program%20Flow.png)
 
 ## Gameplay
 Oh, Village! game supports 2 players gameplay. The objective of this game is to be the last player surviving after a series of turns. The players will take turn in deploying cards or attacking their opponents with their available energy. Energy is used either in deploying cards into the playing field or attacking opponents with the deployed heroes. Each player has a hitpoint (HP) which should be maintained above 0, otherwise they would die. The cards are drawn from a pool of cards in which every draw has the same distribution of the cards, despite the results of previous draws.  

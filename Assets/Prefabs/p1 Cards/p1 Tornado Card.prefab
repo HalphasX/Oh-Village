@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4443311311660288949
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2440320405780567485}
+  - component: {fileID: 3935799325416659871}
+  - component: {fileID: 8996979446587753856}
+  - component: {fileID: 3770943199052945618}
+  - component: {fileID: 8512832404791521869}
+  m_Layer: 5
+  m_Name: p1 Tornado Card
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2440320405780567485
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443311311660288949}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -213, y: -127}
+  m_SizeDelta: {x: 150, y: 200}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &3935799325416659871
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443311311660288949}
+  m_CullTransparentMesh: 1
+--- !u!114 &8996979446587753856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443311311660288949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 006638f33857c8d45827e1195800765a, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &3770943199052945618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443311311660288949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 8996979446587753856}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 8512832404791521869}
+        m_TargetAssemblyTypeName: GameController, Assembly-CSharp
+        m_MethodName: p1DeployTornadoSpellCard
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &8512832404791521869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443311311660288949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be35132cedec75e48aa39cfd787bec73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  P1VillagerCard: {fileID: 0}
+  P1KnightCard: {fileID: 0}
+  P1GuardianCard: {fileID: 0}
+  P1ClericCard: {fileID: 0}
+  P1Villager: {fileID: 0}
+  P1Knight: {fileID: 0}
+  P1Guardian: {fileID: 0}
+  P1Cleric: {fileID: 0}
+  P1SwordCard: {fileID: 0}
+  P1KnightWithSword: {fileID: 0}
+  P1ShieldCard: {fileID: 0}
+  P1GuardianWithShield: {fileID: 0}
+  P1StaffCard: {fileID: 0}
+  P1ClericWithStaff: {fileID: 0}
+  P1LightningSpellCard: {fileID: 0}
+  P1FireballSpellCard: {fileID: 0}
+  P1TornadoSpellCard: {fileID: 0}
+  P1HellfireSpellCard: {fileID: 0}
+  P1HealSpellSCard: {fileID: 0}
+  P1HealSpellMCard: {fileID: 0}
+  P1HealSpellLCard: {fileID: 0}
+  P1DoubleSlashSpellCard: {fileID: 0}
+  P2VillagerCard: {fileID: 0}
+  P2KnightCard: {fileID: 0}
+  P2GuardianCard: {fileID: 0}
+  P2ClericCard: {fileID: 0}
+  P2Villager: {fileID: 0}
+  P2Knight: {fileID: 0}
+  P2Guardian: {fileID: 0}
+  P2Cleric: {fileID: 0}
+  P2SwordCard: {fileID: 0}
+  P2KnightWithSword: {fileID: 0}
+  P2ShieldCard: {fileID: 0}
+  P2GuardianWithShield: {fileID: 0}
+  P2StaffCard: {fileID: 0}
+  P2ClericWithStaff: {fileID: 0}
+  P2LightningSpellCard: {fileID: 0}
+  P2FireballSpellCard: {fileID: 0}
+  P2TornadoSpellCard: {fileID: 0}
+  P2HellfireSpellCard: {fileID: 0}
+  P2HealSpellSCard: {fileID: 0}
+  P2HealSpellMCard: {fileID: 0}
+  P2HealSpellLCard: {fileID: 0}
+  P2DoubleSlashSpellCard: {fileID: 0}
+  P1Hand: {fileID: 0}
+  P2Hand: {fileID: 0}
+  P1Heroes: {fileID: 0}
+  P2Heroes: {fileID: 0}
+  P1Heroes_HP: {fileID: 0}
+  P2Heroes_HP: {fileID: 0}
+  one: {fileID: 0}
+  two: {fileID: 0}
+  three: {fileID: 0}
+  four: {fileID: 0}
+  five: {fileID: 0}
+  six: {fileID: 0}
+  seven: {fileID: 0}
+  eight: {fileID: 0}
+  nine: {fileID: 0}
+  ten: {fileID: 0}
+  p1HP: {fileID: 0}
+  p1Energy: {fileID: 0}
+  p1Name: {fileID: 0}
+  p2HP: {fileID: 0}
+  p2Energy: {fileID: 0}
+  p2Name: {fileID: 0}
+  currentTurnText: {fileID: 0}
+  totalTurnsText: {fileID: 0}
+  inputField1: {fileID: 0}
+  inputField2: {fileID: 0}
+  p1DrawCardButton: {fileID: 0}
+  p2DrawCardButton: {fileID: 0}
+  p1PlayButton: {fileID: 0}
+  p2PlayButton: {fileID: 0}
+  continueButton: {fileID: 0}
+  hpText: {fileID: 0}
+  turnText: {fileID: 0}

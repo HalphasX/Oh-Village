@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Local_Play.unity
+    guid: b138fa4b2b3744a4f9d558653f0c54bc
+  - enabled: 1
+    path: Assets/Scenes/How_To_Play.unity
+    guid: c04925e428464e34fa26fa68ad901bd8
+  - enabled: 1
+    path: Assets/Scenes/HTP2.unity
+    guid: 09ce0b5f55a067e4db0a4b6ea8c02cae
+  - enabled: 1
+    path: Assets/Scenes/HTP3.unity
+    guid: 2c139173d431d9c49b3964a48a72415c
+  - enabled: 1
+    path: Assets/Scenes/HTP4.unity
+    guid: 214b0a314d20ce24f9135969067dfa84
+  - enabled: 1
+    path: Assets/Scenes/HTP5.unity
+    guid: 6784bf11f3fd54c4d8be02e35e0d137b
+  - enabled: 1
+    path: Assets/Scenes/HTP6.unity
+    guid: bf223e25166fc4445b3375dbfcf3ba6f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Library/Library.unity
+    guid: e3ff9f6c0e4625247a14f5ac20e999cc
+  - enabled: 1
+    path: Assets/Scenes/2_Player_Enter_Name.unity
+    guid: 555fbe52dd01b684ab702c84a037b0e0
+  - enabled: 1
+    path: Assets/Scenes/2_Player_Gameplay.unity
+    guid: 2a8201a3649035a4abac2529e1989ed2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/P1_Card.unity
+    guid: 2328f6305dee37545bac3b689d2f77e1
+  - enabled: 1
+    path: Assets/Scenes/P1_Heroes.unity
+    guid: ba07ad19ceb26435cb0bf65d75135246
+  - enabled: 1
+    path: Assets/Scenes/P2_Card.unity
+    guid: 8d14dc59b453a034a9f4b837f9a5d8e1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/P2_Heroes.unity
+    guid: 3d8b3d705c3784a66bb18bdd0f6e0f15
+  - enabled: 1
+    path: Assets/Scenes/P1_Win.unity
+    guid: 02758b3700a734d82bfe32296a2c9523
+  - enabled: 1
+    path: Assets/Scenes/P2_Win.unity
+    guid: cd2a79ce49a394367b75cce1d924f607
+  - enabled: 1
+    path: Assets/Scenes/Library/CharacterLibrary.unity
+    guid: 3beed5a8e750ebf4790f2f696047a84c
+  - enabled: 1
+    path: Assets/Scenes/Library/Spell2Library.unity
+    guid: 4fa5fd683a646bc4faf78240dbcbb69a
+  - enabled: 1
+    path: Assets/Scenes/Library/SpellLibrary.unity
+    guid: fe02e1ec911983847b49cc4671cf9921
+  - enabled: 1
+    path: Assets/Scenes/Library/WeaponLibrary.unity
+    guid: af252ec7157fac04ca9862e3be13f9d1
+  m_configObjects: {}

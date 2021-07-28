@@ -31,10 +31,9 @@ These following tech stacks would be used in our project :
 - Photoshop CC17
 
 ## To open the game 
-You need :
-- Unity v2020.3.8f1; platform Windows-64bit
 You should :
-- Download this whole repository and open the game using Unity Hub.
+- Open Unity v2020.3.8f1; platform Windows-64bit, and Download this whole repository and open the game using Unity Hub. 
+- Or, you can access the executable via https://villageproducer.itch.io/oh-village and follow the installation instruction there. 
 
 ## Program Flow
 
